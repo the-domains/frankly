@@ -1,0 +1,14 @@
+layout_spectrum: 0.886681
+typography_spectrum: 0.150913
+color:
+  saturation: 0.3600333
+  lightness: 0.7255642
+  brandStrength: 0.1113921
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#622C31'
+    - '#F7C925'
+    - '#C5A635'
+  rhythmicContrast: 0.1209951
+name: Frankly
